@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quiz Mobile</string>
+    <string name="owner">Nama : Rahmat Berlianda Avandi (1811082010)</string>
+    <string name="hint_hasil">Tampilan Bilangan</string>
+    <string name="hint_input">Input Angka</string>
+</resources>
